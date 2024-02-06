@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+}
+
+.header > img {
+    position: absolute;
+    left: 0;
+    top: 5%;
+}
+
+.header > h1 {
+    width: fit-content;
+    margin-inline: auto;
+}

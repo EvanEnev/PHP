@@ -8,7 +8,7 @@
 </head>
 <body>
     <header class="header">
-        <img src="./public/images/polytech_logo.png" alt="polytech_logo" width="100" height="100">
+        <img src="../public/images/polytech_logo.png" alt="polytech_logo" width="100" height="100">
         <h1>2.1. Hello, World!</h1>
     </header>
 
